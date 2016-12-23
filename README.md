@@ -1,7 +1,7 @@
 # Code Challenges
 My solutions to code challenges from Codewars and HackerRank.
 
-General format is:
+Format is:
 
 1. Description of challenge
 2. My initial first solution
