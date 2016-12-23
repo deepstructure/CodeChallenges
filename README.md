@@ -1,5 +1,5 @@
-# Code Challenges
-My solutions to code challenges from Codewars and HackerRank.
+# Python Code Challenges
+My Python 2.7 solutions to code challenges from Codewars and HackerRank.
 
 Format is:
 
